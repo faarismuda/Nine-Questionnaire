@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nine-Questionnaire/static/css/main.f3bf3c60.css",
-    "main.js": "/Nine-Questionnaire/static/js/main.3e0f73ba.js",
-    "static/js/787.f84114ae.chunk.js": "/Nine-Questionnaire/static/js/787.f84114ae.chunk.js",
-    "index.html": "/Nine-Questionnaire/index.html",
-    "main.f3bf3c60.css.map": "/Nine-Questionnaire/static/css/main.f3bf3c60.css.map",
-    "main.3e0f73ba.js.map": "/Nine-Questionnaire/static/js/main.3e0f73ba.js.map",
-    "787.f84114ae.chunk.js.map": "/Nine-Questionnaire/static/js/787.f84114ae.chunk.js.map"
+    "main.css": "/static/css/main.f3bf3c60.css",
+    "main.js": "/static/js/main.665b2ea6.js",
+    "static/js/787.f84114ae.chunk.js": "/static/js/787.f84114ae.chunk.js",
+    "index.html": "/index.html",
+    "main.f3bf3c60.css.map": "/static/css/main.f3bf3c60.css.map",
+    "main.665b2ea6.js.map": "/static/js/main.665b2ea6.js.map",
+    "787.f84114ae.chunk.js.map": "/static/js/787.f84114ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3bf3c60.css",
-    "static/js/main.3e0f73ba.js"
+    "static/js/main.665b2ea6.js"
   ]
 }
