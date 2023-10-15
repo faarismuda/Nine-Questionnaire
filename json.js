@@ -253,7 +253,6 @@ const json = {
         "isRequired": true,
         "inputType": "number",
         "autocomplete": "postal-code",
-        "step": 0,
         "placeholder": {
          "id": "17214"
         }
@@ -747,9 +746,7 @@ const json = {
         "valueName": "no_telepon",
         "isRequired": true,
         "inputType": "number",
-        "autocomplete": "tel",
-        "min": 10,
-        "max": 13
+        "autocomplete": "tel"
        },
        {
         "type": "text",
