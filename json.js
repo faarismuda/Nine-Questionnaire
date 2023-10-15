@@ -253,8 +253,6 @@ const json = {
         "isRequired": true,
         "inputType": "number",
         "autocomplete": "postal-code",
-        "min": 5,
-        "max": 5,
         "step": 0,
         "placeholder": {
          "id": "17214"
