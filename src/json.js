@@ -5,7 +5,7 @@ export const surveyJson = {
    "default": "Survey pengguna mobile banking untuk mempelajari efektifitas penggunaannya.",
    "id": "Survey pengguna mobile banking untuk mempelajari efektifitas penggunaannya."
   },
-  "completedHtml": "<h3>Terima Kasih!</h3> <h5>Your ideas and suggestions will help us make it even better.</h5>",
+  "completedHtml": "<h3>Terima Kasih!</h3> <p>Kami sangat menghargai waktu dan kontribusi berharga Anda dalam penelitian ini. Tanggapan Anda akan membantu kami mendapatkan wawasan yang berharga tentang penggunaan aplikasi m-banking dan berkontribusi pada pemahaman lebih lanjut dalam bidang ini.</p> <p>Kami juga ingin mengingatkan Anda untuk mengecek email atau WhatsApp, karena kami akan mengirimkan informasi responden terbaik melalui platform tersebut.</p> <p>Terima kasih sekali lagi atas partisipasi Anda dalam penelitian ini. Semoga Anda memiliki hari yang baik!</p>",
   "completedHtmlOnCondition": [
    {
     "html": "<h3>Terima Kasih!</h3> <h4>Your ideas and suggestions will help us make it even better.</h4>"
